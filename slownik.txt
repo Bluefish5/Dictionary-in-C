@@ -1,0 +1,10 @@
+XXX 2 ccccc aaa
+SSS 1 aaa
+UUU 3 hh jjjj dd
+PPP 1 eee
+ZZZ 4 dd jjjj aaa kkk
+TTT 3 ggg aaa fffff
+VVV 2 ccccc mmmmmm
+RRR 2 hh bbb
+WWW 1 oooo
+YYY 3 iiii bbb fffff
